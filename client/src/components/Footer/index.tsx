@@ -12,7 +12,7 @@ const Footer = () => {
           >
             ❤️
           </span>{" "}
-          by the Word Guess team. &copy; 2025
+          by the Word Guess team. &copy; 2024
         </h4>
       </div>
     </footer>
